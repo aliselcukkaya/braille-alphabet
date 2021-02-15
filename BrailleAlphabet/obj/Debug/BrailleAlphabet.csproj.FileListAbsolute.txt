@@ -1,0 +1,19 @@
+C:\Users\aselc\source\repos\BrailleAlphabet\BrailleAlphabet\bin\Debug\BrailleAlphabet.exe.config
+C:\Users\aselc\source\repos\BrailleAlphabet\BrailleAlphabet\bin\Debug\BrailleAlphabet.exe
+C:\Users\aselc\source\repos\BrailleAlphabet\BrailleAlphabet\bin\Debug\BrailleAlphabet.pdb
+C:\Users\aselc\source\repos\BrailleAlphabet\BrailleAlphabet\obj\Debug\BrailleAlphabet.csprojAssemblyReference.cache
+C:\Users\aselc\source\repos\BrailleAlphabet\BrailleAlphabet\obj\Debug\BrailleAlphabet.Form1.resources
+C:\Users\aselc\source\repos\BrailleAlphabet\BrailleAlphabet\obj\Debug\BrailleAlphabet.Properties.Resources.resources
+C:\Users\aselc\source\repos\BrailleAlphabet\BrailleAlphabet\obj\Debug\BrailleAlphabet.csproj.GenerateResource.cache
+C:\Users\aselc\source\repos\BrailleAlphabet\BrailleAlphabet\obj\Debug\BrailleAlphabet.exe
+C:\Users\aselc\source\repos\BrailleAlphabet\BrailleAlphabet\obj\Debug\BrailleAlphabet.pdb
+C:\Users\aselc\Desktop\Belgeler\CSC\Görsel Programlama\BrailleAlphabet\BrailleAlphabet\bin\Debug\BrailleAlphabet.exe.config
+C:\Users\aselc\Desktop\Belgeler\CSC\Görsel Programlama\BrailleAlphabet\BrailleAlphabet\bin\Debug\BrailleAlphabet.exe
+C:\Users\aselc\Desktop\Belgeler\CSC\Görsel Programlama\BrailleAlphabet\BrailleAlphabet\bin\Debug\BrailleAlphabet.pdb
+C:\Users\aselc\Desktop\Belgeler\CSC\Görsel Programlama\BrailleAlphabet\BrailleAlphabet\obj\Debug\BrailleAlphabet.csprojAssemblyReference.cache
+C:\Users\aselc\Desktop\Belgeler\CSC\Görsel Programlama\BrailleAlphabet\BrailleAlphabet\obj\Debug\BrailleAlphabet.Form1.resources
+C:\Users\aselc\Desktop\Belgeler\CSC\Görsel Programlama\BrailleAlphabet\BrailleAlphabet\obj\Debug\BrailleAlphabet.Properties.Resources.resources
+C:\Users\aselc\Desktop\Belgeler\CSC\Görsel Programlama\BrailleAlphabet\BrailleAlphabet\obj\Debug\BrailleAlphabet.csproj.GenerateResource.cache
+C:\Users\aselc\Desktop\Belgeler\CSC\Görsel Programlama\BrailleAlphabet\BrailleAlphabet\obj\Debug\BrailleAlphabet.csproj.CoreCompileInputs.cache
+C:\Users\aselc\Desktop\Belgeler\CSC\Görsel Programlama\BrailleAlphabet\BrailleAlphabet\obj\Debug\BrailleAlphabet.exe
+C:\Users\aselc\Desktop\Belgeler\CSC\Görsel Programlama\BrailleAlphabet\BrailleAlphabet\obj\Debug\BrailleAlphabet.pdb
